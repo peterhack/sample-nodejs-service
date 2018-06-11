@@ -1,0 +1,26 @@
+{
+  "name": "samplenodejsservice",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  },
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/peterhack/sample-nodejs-service.git"
+  },
+  "author": "Peter Hack <peter.hack@dynatrace.com>",
+  "licence": "MIT",
+  "bugs": {
+    "url": "http://github.com/peterhack/sample-nodejs-service/issues"
+  },
+  "homepage": "http://github.com/peterhack/sample-nodejs-service"
+}
